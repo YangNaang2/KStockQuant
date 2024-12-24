@@ -9,7 +9,7 @@
 
 2024.12.24 <br/>
 <ul>
-  <li>-> Anaconda 내 Pythyon 32bit로 설치 (CYBOS5는 Python 32bit와 호환)</li>
+  <li>-> Anaconda 내 Python 32bit로 설치 (CYBOS5는 Python 32bit와 호환)</li>
   <li>-> PyCharm 통한 코딩 시작</li>
   <ul>
       <li>-> CpStockCode 사용.py</li>

@@ -1,9 +1,10 @@
-<b>알고리즘을 통한 프로그램 매매 in KStock Market<b/>
+<b>알고리즘을 통한 프로그램 매매 in KStock Market</b>
 
 2024.12.23 <br/>
 <ul>
-  -> 대신증권 계좌 개설 <br/>
-  -> CYBOS5 & CYBOS PLUS 설치
+  <li>-> 대신증권 계좌 개설</li>
+  <li>-> CYBOS5 & CYBOS PLUS 설치</li>
+  
 
 2024.12.24 <br/>
 <ul>

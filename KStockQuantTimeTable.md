@@ -1,10 +1,12 @@
-알고리즘을 통한 프로그램 매매 in KStock Market
+<b>알고리즘을 통한 프로그램 매매 in KStock Market<b/>
 
 2024.12.23 <br/>
+<ul>
   -> 대신증권 계좌 개설 <br/>
   -> CYBOS5 & CYBOS PLUS 설치
 
 2024.12.24 <br/>
+<ul>
   -> Anaconda 내 Pythyon 32bit로 설치 (CYBOS5는 Python 32bit와 호환) <br/>
   -> PyCharm 통한 코딩 시작 <br/>
     -> CpStockCode 사용.py <br/>

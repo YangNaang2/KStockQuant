@@ -1,1 +1,0 @@
-# KStockQuant-aa

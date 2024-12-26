@@ -20,5 +20,16 @@
   </li>
 </ul>
 
+2024.12.26 <br/>
+<ul>
+  <li>-> PyCharm 통한 코딩</li>
+  <ul>
+      <li>-> PER, EPS 데이터 구하기.py</li>
+      <li>-> PER 분석 통한 유망 종목 찾기.py</li>
+      <li>-> 전 종목 거래량 급증 여부 확인.py</li>
+      <li>-> 한 종목 거래량 급증 여부 확인.py</li>
+    </ul>
+  </li>
+</ul>
 
 https://wikidocs.net/3685

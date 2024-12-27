@@ -32,4 +32,15 @@
   </li>
 </ul>
 
-https://wikidocs.net/4363
+2024.12.27 <br/>
+<ul>
+  <li>-> pandas_datareader가 아닌 yfinance 사용</li>
+  <li>-> pandas version 오류로 python 3.8 32bit로 upgrade</li>
+  <li>-> PyCharm 통한 코딩</li>
+  <ul>
+      <li>-> 주식 데이터 통해 차트 그리기.py</li>
+      <li>-> 이동 평균선.py</li>
+    </ul>
+  </li>
+</ul>
+https://wikidocs.net/4375

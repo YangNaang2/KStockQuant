@@ -43,4 +43,16 @@
     </ul>
   </li>
 </ul>
-https://wikidocs.net/4375
+
+2024.12.28 <br/>
+<ul>
+  <li>-> zipline 설치 오류로 skip </li>
+  <li>-> mpl_finance => mplfinance로 변경</li>
+  <li>-> PyCharm 통한 코딩</li>
+  <ul>
+      <li>-> 종가 & 거래량 한번에 그래프.py</li>
+      <li>-> 캔들스틱차트(일봉).py</li>
+    </ul>
+  </li>
+</ul>
+https://wikidocs.net/4766

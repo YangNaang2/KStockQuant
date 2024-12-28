@@ -1,0 +1,5 @@
+거래량이 없던 날은 
+skhynix = skhynix[skhynix['Volume'] > 0]  # 거래량이 0인 날 제외
+이렇게 해도 해당 날짜는 남아 있었다.
+이는 mpf내에서 show_nontrading = False를 통해
+거래가 없던 날짜는 그래프에서 생략시키가 가능했다.

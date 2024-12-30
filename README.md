@@ -65,6 +65,19 @@
   </li>
 </ul>
 
+2024.12.30 <br/>
+<ul>
+  <li>-> QT Designer XML(UI)파일을 파이썬 코드로 변환하는 과정 오류로 skip </li>
+  <li>-> 추후 실습 진행을 위해 CYBOS에서 키움증권의 OpenAPI+ 설치 </li>
+  <li>-> PyCharm 통한 코딩</li>
+  <ul>
+      <li>-> pie 차트 그리기.py</li>
+      <li>-> Pandas & sqlite3 이용 주가 데이터 받기.py</li>
+      <li>-> 키움 OpenAPI 사용 로그인 환경.py</li>
+    </ul>
+  </li>
+</ul>
+
 https://wikidocs.net/5755
 
 https://www.youtube.com/watch?v=1L7SwYzhnEw&list=PLBcT2bWZuRNrSOu4vq8nM5eSWiN65-DvG&index=13&ab_channel=%ED%97%A8%EB%A6%AC%EC%9D%98%EA%B8%88%EC%9C%B5MBA

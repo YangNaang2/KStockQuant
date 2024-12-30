@@ -65,7 +65,7 @@
   </li>
 </ul>
 
-https://wikidocs.net/4766
+https://wikidocs.net/5755
 
 https://www.youtube.com/watch?v=1L7SwYzhnEw&list=PLBcT2bWZuRNrSOu4vq8nM5eSWiN65-DvG&index=13&ab_channel=%ED%97%A8%EB%A6%AC%EC%9D%98%EA%B8%88%EC%9C%B5MBA
 
